@@ -4,7 +4,7 @@
     "keywords": ["yii2", "extension", "widget", "videojs"],
     "homepage": "https://github.com/lulubin/yii2-widget-videojs",
     "type": "yii2-extension",
-    "license": "BSD 3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "lulubin",
